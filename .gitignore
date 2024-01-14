@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+*/bin/
+*/build/
+*/output/
+
+*/output/*
+*/bin/*
+*/build/*
+
